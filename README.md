@@ -1,8 +1,11 @@
 # MazingPaints
-Webpage for mazing paints
+Webpage for mazing paints   
+
+**Under development**
    
-[here](./PAGE_NAME.md)
+
 
 <img src="./docs/assets/images/dog_running.jpg" alt="drawing" width="1000"/>   
 <img src="./docs/assets/images/sheep.jpg" alt="drawing" width="100%"/>   
+<img src="./docs/assets/images/daisies.jpg" alt="drawing" width="100%"/>  
    

@@ -1,6 +1,6 @@
 ---
 title: portfolio
-layout: template
+layout: default
 filename: portfolio.md
 --- 
 

@@ -9,4 +9,4 @@ Webpage for mazing paints
 <img src="./docs/assets/images/daisies.jpg" alt="drawing" width="100%"/>   
    
 
-<button name="button" onclick="http://www.google.com">Click me</button>
+<button name="repo" onclick="https://github.com/ashtondavi/ashtondavi.github.io">Click me</button>

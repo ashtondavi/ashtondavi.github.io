@@ -1,6 +1,3 @@
----
-layout: default
----
 
 # MazingPaints
 Webpage for mazing paints   
@@ -11,3 +8,5 @@ Webpage for mazing paints
 <img src="./docs/assets/images/sheep.jpg" alt="drawing" width="100%"/>   
 <img src="./docs/assets/images/daisies.jpg" alt="drawing" width="100%"/>   
    
+
+<button name="button" onclick="http://www.google.com">Click me</button>

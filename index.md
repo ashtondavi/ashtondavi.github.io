@@ -1,3 +1,8 @@
+---
+title: Home
+layout: default
+filename: index.md
+--- 
 
 # MazingPaints
 Webpage for mazing paints   

@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 layout: default
-filename: portfolio.html
+filename: portfolio
 --- 
 
 <img src="./docs/assets/images/dog_running.jpg" alt="drawing" width="1000"/>   

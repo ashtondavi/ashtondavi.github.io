@@ -5,7 +5,9 @@ filename: index
 --- 
 
 # MazingPaints
-Webpage for mazing paints   
+
+MazingPaints is a project blending painting and technology.
+  
 
 **Under development**
 

@@ -20,11 +20,11 @@ strokes and are used to generate a digital image that looks like a painting.
 This project takes this a method a step further and use the information 
 generated to produce a real-life production of the painting.   
    
-   
-<p align="middle">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qqGRvMT7Y_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-</p>   
-   
+
+<div class="container">
+<iframe src="https://www.youtube.com/embed/qqGRvMT7Y_A" 
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
    
 ## Background to the project...  
    

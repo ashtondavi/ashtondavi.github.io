@@ -16,15 +16,14 @@ order: 1
 ## MazingPaints
    
 This is the website for an experimental project attempting to blend digital 
-painting with "real-life" brush on canvas painting. to do this photos are used as 
-the subject of the paintings and computer controlled brushes paint the final 
+painting with "real-life" brush on canvas painting. to do this photos are used 
+as the subject of the paintings and computer controlled brushes paint the final 
 canvases using different digital methods.
    
-The video below shows one example of digital, which can be used to generate a 
-digital painting or to control the computer controlled brushes. In this example, 
-Multiple brush sizes and strokes and are used to generate a digital image that 
-looks similar to a painting. This project takes this a method a step further by
-trying to produce real-life productions of this painting.
+The video below shows one example of digital painting. Multiple brush strokes 
+and sizes are used to generate a digital image which looks similar to a painting. 
+This project takes this a step further and produces a real-life production of 
+the digital painting.
  
    
 <div class="container">

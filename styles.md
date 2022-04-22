@@ -2,7 +2,7 @@
 title: Styles
 layout: default
 filename: styles
-order: 2
+order: 3
 --- 
 
 # Painting styles and methods

@@ -1,8 +1,8 @@
 ---
-title: Portfolio
+title: Paintings
 layout: default
-filename: portfolio
-order: 3
+filename: paintings
+order: 2
 --- 
 
 <p align="middle">
@@ -13,5 +13,6 @@ order: 3
 <img src="./docs/assets/images/trees.jpg" alt="drawing" width="75%"/>   
 <img src="./docs/assets/images/trading_ship.jpg" alt="drawing" width="75%"/>   
 <img src="./docs/assets/images/bumblebee.jpg" alt="drawing" width="75%"/>   
+<img src="./docs/assets/images/shark.jpg" alt="drawing" width="75%"/>   
 </p> 
    

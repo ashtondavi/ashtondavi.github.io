@@ -7,8 +7,8 @@ order: 1
 
 
 <p align="middle">
-  <img src="./docs/assets/images/butterfly.jpg" width="49%" />
-  <img src="./docs/assets/images/boat.jpg" width="49%" />
+  <img alt="butterfly image" src="./docs/assets/images/butterfly.jpg" width="49%" />
+  <img alt="boat image" src="./docs/assets/images/boat.jpg" width="49%" />
 </p>  
 
 
@@ -28,7 +28,7 @@ the digital painting.
    
 <div class="container">
 <iframe src="https://www.youtube.com/embed/qqGRvMT7Y_A" 
-frameborder="0" allowfullscreen class="video"></iframe>
+frameborder="0" allowfullscreen class="video" loading="lazy"></iframe>
 </div>   
    
    
@@ -45,5 +45,5 @@ new and interesting breakthroughs are made on the painting method.
 Designer: David Ashton
 
 <p align="middle">
-<img src="./docs/assets/images/paint_wall.jpg" alt="drawing" width="100%"/>   
+<img alt="paintings on wall" src="./docs/assets/images/paint_wall.jpg" alt="drawing" width="100%"/>   
 </p> 

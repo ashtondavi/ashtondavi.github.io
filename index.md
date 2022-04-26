@@ -27,8 +27,11 @@ the digital painting.
  
    
 <div class="container">
-<iframe src="https://www.youtube.com/embed/qqGRvMT7Y_A" 
-frameborder="0" allowfullscreen class="video" loading="lazy"></iframe>
+<iframe 
+src="https://www.youtube.com/embed/qqGRvMT7Y_A" 
+frameborder="0" allowfullscreen class="video" loading="lazy" 
+title="youtube video of digital shark method"
+></iframe>
 </div>   
    
    

@@ -14,5 +14,8 @@ order: 2
 <img alt="ship image" src="./docs/assets/images/trading_ship.jpg" width="75%"/>   
 <img alt="bumblebee image" src="./docs/assets/images/bumblebee.jpg" width="75%"/>   
 <img alt="shark image" src="./docs/assets/images/shark.jpg" width="75%"/>   
+<img alt="dog image" src="./docs/assets/images/dog.jpg" width="75%"/>   
+<img alt="rose image" src="./docs/assets/images/rose.jpg" width="75%"/>   
+<img alt="fish image" src="./docs/assets/images/fish_1.jpg" width="75%"/>   
 </p> 
    
